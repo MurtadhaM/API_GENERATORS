@@ -16,11 +16,15 @@ npm run start
 ```
 
 ## Screenshots
+
 ### API Explorer
 <img src="1.png" width="1000" height="500">
+
 ### Swagger UI
+
 <img src="2.png" width="1000" height="500">
-### Postman
+
+### JSON SPEC FILE
 <img src="3.png" width="1000" height="500">
 
 ## License
